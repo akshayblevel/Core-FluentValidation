@@ -1,0 +1,9 @@
+D:\AKKI_DEV\RND\DotNetCore\Akshayblevel.FluentValidation\Akshayblevel.FluentValidation.ApiModels\bin\Debug\netcoreapp2.1\Akshayblevel.FluentValidation.ApiModels.deps.json
+D:\AKKI_DEV\RND\DotNetCore\Akshayblevel.FluentValidation\Akshayblevel.FluentValidation.ApiModels\bin\Debug\netcoreapp2.1\Akshayblevel.FluentValidation.ApiModels.dll
+D:\AKKI_DEV\RND\DotNetCore\Akshayblevel.FluentValidation\Akshayblevel.FluentValidation.ApiModels\bin\Debug\netcoreapp2.1\Akshayblevel.FluentValidation.ApiModels.pdb
+D:\AKKI_DEV\RND\DotNetCore\Akshayblevel.FluentValidation\Akshayblevel.FluentValidation.ApiModels\obj\Debug\netcoreapp2.1\Akshayblevel.FluentValidation.ApiModels.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\DotNetCore\Akshayblevel.FluentValidation\Akshayblevel.FluentValidation.ApiModels\obj\Debug\netcoreapp2.1\Akshayblevel.FluentValidation.ApiModels.AssemblyInfoInputs.cache
+D:\AKKI_DEV\RND\DotNetCore\Akshayblevel.FluentValidation\Akshayblevel.FluentValidation.ApiModels\obj\Debug\netcoreapp2.1\Akshayblevel.FluentValidation.ApiModels.AssemblyInfo.cs
+D:\AKKI_DEV\RND\DotNetCore\Akshayblevel.FluentValidation\Akshayblevel.FluentValidation.ApiModels\obj\Debug\netcoreapp2.1\Akshayblevel.FluentValidation.ApiModels.dll
+D:\AKKI_DEV\RND\DotNetCore\Akshayblevel.FluentValidation\Akshayblevel.FluentValidation.ApiModels\obj\Debug\netcoreapp2.1\Akshayblevel.FluentValidation.ApiModels.pdb
+D:\AKKI_DEV\RND\DotNetCore\Akshayblevel.FluentValidation\Akshayblevel.FluentValidation.ApiModels\obj\Debug\netcoreapp2.1\Akshayblevel.FluentValidation.ApiModels.csprojAssemblyReference.cache
